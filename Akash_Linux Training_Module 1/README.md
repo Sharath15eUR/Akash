@@ -91,6 +91,9 @@ mkdir dir1
 cd dir1
 touch file1 file2 file3
 ls -lt > aftersort.txt
+echo "Akash" > file1.txt
+echo "embedUR" > file3.txt
+echo "Linux" > file2.txt
 cat aftersort.txt
 ```
 
