@@ -6,8 +6,8 @@
 ### Q1) List large files in the current directory
 **Commands**:
 ```bash
-ls -lh | awk '$5 > 1048576 {print $9}' > large_files.txt
-cat large_files.txt
+ls -l | awk '$5 > 1048576 {print $9}' > 1M_largerfiles.txt
+cat 1M_largerfiles.txt
 ```
 
 **Explanation**:  
@@ -66,7 +66,9 @@ kill -9 $(ps aux --sort=-%mem | awk 'NR==2 {print $2}')
 ### Q5) Show available gateways
 **Commands**:
 ```bash
-ip route | grep default | awk '{print $3}' | sort
+netstat -rn
+netstat -rn | awk '{print $3}' | sort
+netstat -rn | grep '^0.0.0.0' | awk '{print $3}' | sort
 ```
 
 **Explanation**:  
