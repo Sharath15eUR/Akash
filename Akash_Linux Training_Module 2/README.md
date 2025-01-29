@@ -11,7 +11,7 @@ cat 1M_largerfiles.txt
 ```
 
 **Explanation**:  
-![Output](screenshots/Module_2_Explanation_1.jpg)
+![Output](screenshots/Module2Explanation1.jpg)
 
 **Output**:  
 ![Output](screenshots/q211.jpg)  
@@ -26,7 +26,7 @@ sed 's/localhost/127.0.0.1/g' config.txt > updated_config.txt
 ```
 
 **Explanation**:  
-
+![Output](screenshots/Module2Explanation2.jpg)
 
 **Output**:  
 ![Output](screenshots/q22.jpg)
@@ -41,7 +41,7 @@ cat filtered_log.txt
 ```
 
 **Explanation**:  
-
+![Output](screenshots/Module2Explanation3.jpg)
 
 **Output**:  
 ![Output](screenshots/q23.jpg)
@@ -56,7 +56,7 @@ kill -9 $(ps aux --sort=-%mem | awk 'NR==2 {print $2}')
 ```
 
 **Explanation**:  
-
+![Output](screenshots/Module2Explanation4.jpg)
 
 **Output**:  
 ![Output](screenshots/q24.jpg)
@@ -72,7 +72,7 @@ netstat -rn | grep '^0.0.0.0' | awk '{print $3}' | sort
 ```
 
 **Explanation**:  
-
+![Output](screenshots/Module2Explanation5.jpg)
 
 **Output**:  
 ![Output](screenshots/q25.jpg)
