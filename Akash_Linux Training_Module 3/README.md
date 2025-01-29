@@ -17,7 +17,7 @@
 ```bash
 nano backup_manager.sh
 chmod +x backup_manager.sh
-./backup_manager.sh
+./backup_manager.sh "/home/akash/source" "/home/akash/backup" ".txt"
 ```
 **Explanation**:  
 ![Explanation](screenshots/Module3Explanation1.jpg)  
@@ -30,8 +30,7 @@ chmod +x backup_manager.sh
 **Commands**:
 ```bash
 nano backup_manager.sh
-chmod +x backup_manager.sh
-./backup_manager.sh
+./backup_manager.sh "/home/akash/source" "/home/akash/backup" ".txt"
 ```
 **Explanation**:  
 ![Explanation](screenshots/Module3Explanation2.jpg)  
@@ -44,8 +43,7 @@ chmod +x backup_manager.sh
 **Commands**:
 ```bash
 nano backup_manager.sh
-chmod +x backup_manager.sh
-./backup_manager.sh
+./backup_manager.sh "/home/akash/source" "/home/akash/backup" ".txt"
 ```
 **Explanation**:  
 ![Explanation](screenshots/Module3Explanation3.jpg)  
@@ -58,8 +56,7 @@ chmod +x backup_manager.sh
 **Commands**:
 ```bash
 nano backup_manager.sh
-chmod +x backup_manager.sh
-./backup_manager.sh
+./backup_manager.sh "/home/akash/source" "/home/akash/backup" ".txt"
 ```
 **Explanation**:  
 ![Explanation](screenshots/Module3Explanation4.jpg)  
@@ -72,8 +69,7 @@ chmod +x backup_manager.sh
 **Commands**:
 ```bash
 nano backup_manager.sh
-chmod +x backup_manager.sh
-./backup_manager.sh
+./backup_manager.sh "/home/akash/source" "/home/akash/backup" ".txt"
 ```
 **Explanation**:  
 ![Explanation](screenshots/Module3Explanation5.jpg)  
@@ -86,8 +82,7 @@ chmod +x backup_manager.sh
 **Commands**:
 ```bash
 nano backup_manager.sh
-chmod +x backup_manager.sh
-./backup_manager.sh
+./backup_manager.sh "/home/akash/source" "/home/akash/backup" ".txt"
 ```
 **Explanation**:  
 ![Explanation](screenshots/Module3Explanation6.jpg)  
