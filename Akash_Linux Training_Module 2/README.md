@@ -11,7 +11,7 @@ cat 1M_largerfiles.txt
 ```
 
 **Explanation**:  
-![Output](screenshots/Module 2 Explanation 1.jpg)  
+![Output](screenshots/Module_2_Explanation_1.jpg)
 
 **Output**:  
 ![Output](screenshots/q211.jpg)  
