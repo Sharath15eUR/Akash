@@ -3,11 +3,11 @@
 
 ## Solutions
 
------
-## Consolidated Output
+### Consolidated Output
 
 **Script File**: `backup_manager.sh`  
-**Screenshots**:  
+**Report**:  
+
 ![Final Output 1](screenshots/Module3FinalOutput1.jpg)  
 ![Final Output 2](screenshots/Module3FinalOutput2.jpg)  
 -----
