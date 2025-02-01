@@ -4,7 +4,6 @@
 ## Solutions
 
 ### Consolidated Output
-
 **Script File**: `file_analyzer.sh`  
 **Output**:  
 ![Final Output](screenshots/Module5FinalOutput.jpg)  
