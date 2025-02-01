@@ -2,12 +2,12 @@
 # Akash_Linux Training_Module 5
 
 ## Solutions
-
+-----
 ### Consolidated Output
 **Script File**: `file_analyzer.sh`  
 **Output**:  
 ![Final Output](screenshots/Module5FinalOutput.jpg)  
------
+---
 
 ### 1) Recursive Functions
 **Explanation**:  
