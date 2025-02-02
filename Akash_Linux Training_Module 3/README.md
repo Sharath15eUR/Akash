@@ -95,11 +95,6 @@ nano backup_manager.sh
 ```
 Akash_Linux_Training_Module_3
 │-- backup_manager.sh
-│-- Q1_Quoting.sh
-│-- Q2_Globbing.sh
-│-- Q3_Export_Statements.sh
-│-- Q4_Array_Operation.sh
-│-- Q5_Conditional_Execution.sh
-│-- Q6_Output_Report.sh
+│-- README.md
 │
 └── screenshots/
