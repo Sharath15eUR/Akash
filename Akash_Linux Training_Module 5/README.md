@@ -10,7 +10,8 @@
 
 ### 1) Recursive Functions
 **Explanation**:  
-![Explanation](screenshots/Module5Explanation1.jpg)  
+![Explanation](screenshots/Module5Explanation11.jpg)  
+![Explanation](screenshots/Module5Explanation12.jpg) 
 **Output**:  
 ![Output](screenshots/Module5Output1.jpg)  
 
@@ -50,7 +51,8 @@
 
 ### 6) Command-line Arguments using getopts
 **Explanation**:  
-![Explanation](screenshots/Module5Explanation6.jpg)  
+![Explanation](screenshots/Module5Explanation61.jpg)  
+![Explanation](screenshots/Module5Explanation62.jpg)
 **Output**:  
 ![Output](screenshots/Module5Output6.jpg)  
 
