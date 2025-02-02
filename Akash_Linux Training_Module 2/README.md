@@ -78,3 +78,4 @@ netstat -rn | grep '^0.0.0.0' | awk '{print $3}' | sort
 ![Output](screenshots/q25.jpg)
 
 ---
+
