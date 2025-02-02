@@ -15,6 +15,8 @@ Params expected to be fetched from `input.txt` file: `frame.time`, `wlan.fc.type
 
 ### Explanation:
 ![Explanation](screenshots/Module4Explanation1.jpg)
+![Explanation](screenshots/Module4Explanation2.jpg)
+![Explanation](screenshots/Module4Explanation3.jpg)
 
 ### Terminal Output:
 ![Terminal Output](screenshots/Module4Output1.jpg)
