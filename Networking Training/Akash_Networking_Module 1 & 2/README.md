@@ -14,9 +14,9 @@
     - Ensures encrypted data transfer.  
 
 **Outputs:**  
-![Output 1a](Outputs/Mod1Output1a.png)  
-![Output 1b](Outputs/Mod1Output1b.png)  
-![Output 1c](Outputs/Mod1Output1c.png)
+![Output 1a](Outputs/Mod1Output1a.jpg)  
+![Output 1b](Outputs/Mod1Output1b.jpg)  
+![Output 1c](Outputs/Mod1Output1c.jpg)
 
 ## 2) Hosting FTP and SFTP Servers
 
@@ -28,9 +28,9 @@
 - SFTP is preferred for sensitive data.  
 
 **Outputs:**  
-![Output 2a](Outputs/Mod1Output2a.png)  
-![Output 2b](Outputs/Mod1Output2b.png)  
-![Output 2c](Outputs/Mod1Output2c.png)
+![Output 2a](Outputs/Mod1Output2a.jpg)  
+![Output 2b](Outputs/Mod1Output2b.jpg)  
+![Output 2c](Outputs/Mod1Output2c.jpg)
 
 ## 3) Packet Analysis with Networking Tools
 
@@ -42,12 +42,12 @@
 - It’s like decoding network communication.  
 
 **Outputs:**  
-![Output 3a](Outputs/Mod1Output3a.png)  
-![Output 3b](Outputs/Mod1Output3b.png)  
-![Output 3c](Outputs/Mod1Output3c.png)  
-![Output 3d](Outputs/Mod1Output3d.png)  
-![Output 3e](Outputs/Mod1Output3e.png)  
-![Output 3f](Outputs/Mod1Output3f.png)
+![Output 3a](Outputs/Mod1Output3a.jpg)  
+![Output 3b](Outputs/Mod1Output3b.jpg)  
+![Output 3c](Outputs/Mod1Output3c.jpg)  
+![Output 3d](Outputs/Mod1Output3d.jpg)  
+![Output 3e](Outputs/Mod1Output3e.jpg)  
+![Output 3f](Outputs/Mod1Output3f.jpg)
 
 ## 4) Linux Networking Utilities
 
@@ -64,9 +64,9 @@
     - Helps check configuration and stats.  
 
 **Outputs:**  
-![Output 4a](Outputs/Mod1Output4a.png)  
-![Output 4b](Outputs/Mod1Output4b.png)  
-![Output 4c](Outputs/Mod1Output4c.png)
+![Output 4a](Outputs/Mod1Output4a.jpg)  
+![Output 4b](Outputs/Mod1Output4b.jpg)  
+![Output 4c](Outputs/Mod1Output4c.jpg)
 
 ## 5) Duplicate IPs in a Network
 
@@ -78,7 +78,7 @@
 - Unique IPs are essential for stability.  
 
 **Outputs:**  
-![Output 5](Outputs/Mod1Output5.png)
+![Output 5](Outputs/Mod1Output5.jpg)
 
 ## 6) Remote System Access
 
@@ -98,16 +98,16 @@
     - Seamless for Windows networks.  
 
 **Outputs:**  
-![Output 6a](Outputs/Mod1Output6a.png)  
-![Output 6b](Outputs/Mod1Output6b.png)  
-![Output 6c](Outputs/Mod1Output6c.png)  
-![Output 6d](Outputs/Mod1Output6d.png)  
-![Output 6e](Outputs/Mod1Output6e.png)  
-![Output 6f](Outputs/Mod1Output6f.png)  
-![Output 6g](Outputs/Mod1Output6g.png)  
-![Output 6h](Outputs/Mod1Output6h.png)  
-![Output 6i](Outputs/Mod1Output6i.png)  
-![Output 6j](Outputs/Mod1Output6j.png)
+![Output 6a](Outputs/Mod1Output6a.jpg)  
+![Output 6b](Outputs/Mod1Output6b.jpg)  
+![Output 6c](Outputs/Mod1Output6c.jpg)  
+![Output 6d](Outputs/Mod1Output6d.jpg)  
+![Output 6e](Outputs/Mod1Output6e.jpg)  
+![Output 6f](Outputs/Mod1Output6f.jpg)  
+![Output 6g](Outputs/Mod1Output6g.jpg)  
+![Output 6h](Outputs/Mod1Output6h.jpg)  
+![Output 6i](Outputs/Mod1Output6i.jpg)  
+![Output 6j](Outputs/Mod1Output6j.jpg)
 
 ## 7) Default Gateway Reachability
 
@@ -119,7 +119,7 @@
 - It’s key to internet access.  
 
 **Outputs:**  
-![Output 7](Outputs/Mod1Output7.png)
+![Output 7](Outputs/Mod1Output7.jpg)
 
 ## 8) Network Interface Details
 
@@ -133,8 +133,8 @@
     - Useful for Wi-Fi troubleshooting.  
 
 **Outputs:**  
-![Output 8a](Outputs/Mod1Output8a.png)  
-![Output 8b](Outputs/Mod1Output8b.png)
+![Output 8a](Outputs/Mod1Output8a.jpg)  
+![Output 8b](Outputs/Mod1Output8b.jpg)
 
 ## 9) Router Web Interface Exploration
 
@@ -146,8 +146,8 @@
 - Default credentials are often admin/admin.  
 
 **Outputs:**  
-![Output 9a](Outputs/Mod1Output9a.png)  
-![Output 9b](Outputs/Mod1Output9b.png)
+![Output 9a](Outputs/Mod1Output9a.jpg)  
+![Output 9b](Outputs/Mod1Output9b.jpg)
 
 ## 10) DHCP Server IP Assignment
 
@@ -159,8 +159,8 @@
 - Ensures efficient IP allocation.  
 
 **Outputs:**  
-![Output 10a](Outputs/Mod1Output10a.png)  
-![Output 10b](Outputs/Mod1Output10b.png)
+![Output 10a](Outputs/Mod1Output10a.jpg)  
+![Output 10b](Outputs/Mod1Output10b.jpg)
 
 ## 11) Remote Machine Access via SSH and Telnet
 
@@ -174,8 +174,8 @@
     - Risky for sensitive tasks.  
 
 **Outputs:**  
-![Output 11a](Outputs/Mod1Output11a.png)  
-![Output 11b](Outputs/Mod1Output11b.png)
+![Output 11a](Outputs/Mod1Output11a.jpg)  
+![Output 11b](Outputs/Mod1Output11b.jpg)
 
 ---
 
