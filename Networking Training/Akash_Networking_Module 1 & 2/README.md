@@ -6,7 +6,7 @@
 - Both `cp` and `scp` are used to copy files, but they serve different purposes based on local or remote operations.  
   - **cp:**  
     - Used to copy files or folders locally on a Linux system.  
-    - `cp -r source destination` recursively copies a folder and its contents.  
+    - `cp -r source destination` recursively copies a folder and its contents.   
     - Simple and fast for local operations.  
   - **scp:**  
     - Securely copies files between local and remote systems over SSH.  
