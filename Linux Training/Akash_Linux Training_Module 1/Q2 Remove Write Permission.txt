@@ -1,0 +1,6 @@
+akash@akash:~$ touch new.txt
+akash@akash:~$ ls -l new.txt
+-rw-rw-r-- 1 akash akash 0 Jan 22 22:01 new.txt
+akash@akash:~$ chmod g-w new.txt
+akash@akash:~$ ls -l new.txt
+-rw-r--r-- 1 akash akash 0 Jan 22 22:01 new.txt

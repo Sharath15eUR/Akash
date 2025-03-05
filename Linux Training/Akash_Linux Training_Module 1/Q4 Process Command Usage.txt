@@ -1,0 +1,148 @@
+akash@akash:~$ ps -t
+PID  TTY      STAT   TIME   COMMAND
+4307 pts/0    Ss     0:00   bash
+4314 pts/0    R+     0:00   ps -t
+
+akash@akash:~$ ps u akash
+PID   TTY          TIME CMD
+2054  ?        00:00:01 systemd
+2058  ?        00:00:00 (sd-pam)
+2069  ?        00:00:00 pipewire
+2071  ?        00:00:00 pipewire
+2073  ?        00:00:00 wireplumber
+2075  ?        00:00:00 pipewire-pulse
+2085  ?        00:00:01 dbus-daemon
+2090  ?        00:00:00 gnome-keyring-d
+2108  ?        00:00:00 xdg-document-po
+2122  ?        00:00:00 xdg-permission-
+2139  tty2     00:00:00 gdm-wayland-ses
+2152  tty2     00:00:00 gnome-session-b
+2249  ?        00:00:00 gcr-ssh-agent
+2257  ?        00:00:00 gnome-session-c
+2283  ?        00:00:00 gvfsd
+2309  ?        00:00:00 gvfsd-fuse
+2384  ?        00:00:00 gnome-session-b
+2408  ?        00:00:00 at-spi-bus-laun
+4294  ?        00:00:00 gnome-terminal.
+4300  ?        00:00:00 gnome-terminal-
+4307  pts/0    00:00:00 bash
+4315  pts/0    00:00:00 ps
+
+akash@akash:~$ ps -e
+PID  TTY      TIME CMD
+1    ?    00:00:03 systemd
+2    ?    00:00:00 kthreadd
+3    ?    00:00:00 pool_workqueue_release
+4    ?    00:00:00 kworker/R-rcu_g
+5    ?    00:00:00 kworker/R-rcu_p
+6    ?    00:00:00 kworker/R-slub_
+7    ?    00:00:00 kworker/R-netns
+10   ?    00:00:00 kworker/0:0H-kblockd
+11   ?    00:00:00 kworker/u12:0-ext4-rsv-conversion
+12   ?    00:00:00 kworker/R-mm_pe
+13   ?    00:00:00 rcu_tasks_kthread
+14   ?    00:00:00 rcu_tasks_rude_kthread
+15   ?    00:00:00 rcu_tasks_trace_kthread
+16   ?    00:00:00 ksoftirqd/0
+17   ?    00:00:01 rcu_preempt
+18   ?    00:00:00 migration/0
+19   ?    00:00:00 idle_inject/0
+20   ?    00:00:00 cpuhp/0
+
+akash@akash:~$ ps -ef
+UID     PID   PPID  C STIME  TTY  TIME    CMD
+root    1     0     0 21:20  ?    00:00:03 /sbin/init splash
+root    2     0     0 21:20  ?    00:00:00 [kthreadd]
+root    3     2     0 21:20  ?    00:00:00 [pool_workqueue_release]
+root    4     2     0 21:20  ?    00:00:00 [kworker/R-rcu_g]
+root    5     2     0 21:20  ?    00:00:00 [kworker/R-rcu_p]
+root    6     2     0 21:20  ?    00:00:00 [kworker/R-slub_]
+root    7     2     0 21:20  ?    00:00:00 [kworker/R-netns]
+root    10    2     0 21:20  ?    00:00:00 [kworker/0:0H-kblockd]
+root    11    2     0 21:20  ?    00:00:00 [kworker/u12:0-ext4-rsv-conversion]
+root    12    2     0 21:20  ?    00:00:00 [kworker/R-mm_pe]
+root    13    2     0 21:20  ?    00:00:00 [rcu_tasks_kthread]
+root    14    2     0 21:20  ?    00:00:00 [rcu_tasks_rude_kthread]
+root    15    2     0 21:20  ?    00:00:00 [rcu_tasks_trace_kthread]
+root    16    2     0 21:20  ?    00:00:00 [ksoftirqd/0]
+root    17    2     0 21:20  ?    00:00:01 [rcu_preempt]
+root    18    2     0 21:20  ?    00:00:00 [migration/0]
+root    19    2     0 21:20  ?    00:00:00 [idle_inject/0]
+root    20    2     0 21:20  ?    00:00:00 [cpuhp/0]
+root    21    2     0 21:20  ?    00:00:00 [cpuhp/1]
+root    22    2     0 21:20  ?    00:00:00 [idle_inject/1]
+root    23    2     0 21:20  ?    00:00:00 [migration/1]
+root    24    2     0 21:20  ?    00:00:00 [ksoftirqd/1]
+
+
+akash@akash:~$ ps -ejH
+PID  PGID  SID  TTY   TIME     CMD
+  2    0     0    ?     00:00:00 kthreadd
+  3    0     0    ?     00:00:00   pool_workqueue_release
+  4    0     0    ?     00:00:00   kworker/R-rcu_g
+  5    0     0    ?     00:00:02   kworker/R-rcu_p
+  6    0     0    ?     00:00:00   kworker/R-slub
+  7    0     0    ?     00:00:00   kworker/R-netns
+ 10    0     0    ?     00:00:00   kworker/0:0H-kblockd
+ 11    0     0    ?     00:00:00   kworker/u12:0-ext4-rsv-conversion
+ 12    0     0    ?     00:00:00   kworker/R-mm_pe
+ 13    0     0    ?     00:00:00   rcu_tasks_kthread
+ 14    0     0    ?     00:00:00   rcu_tasks_rude_kthread
+ 15    0     0    ?     00:00:00   rcu_tasks_trace_kthread
+ 16    0     0    ?     00:00:00   ksoftirqd/0
+ 17    0     0    ?     00:00:01   rcu_preempt
+ 18    0     0    ?     00:00:00   migration/0
+ 19    0     0    ?     00:00:00   idle_inject/0
+ 20    0     0    ?     00:00:00   cpuhp/0
+ 21    0     0    ?     00:00:00   cpuhp/1
+ 22    0     0    ?     00:00:00   idle_inject/1
+ 23    0     0    ?     00:00:00 migration/1
+
+akash@akash:~$ ps -eLf
+UID     PID   PPID  LWP  C  NLWP STIME  TTY  TIME    CMD
+root    1     0     10   1  1    21:20  ?    00:00:03 /sbin/init splash
+root    2     0     20   1  1    21:20  ?    00:00:00 [kthreadd]
+root    3     2     30   1  1    21:20  ?    00:00:00 [pool_workqueue_release]
+root    4     2     40   1  1    21:20  ?    00:00:00 [kworker/R-rcu_g]
+root    5     2     50   1  1    21:20  ?    00:00:00 [kworker/R-rcu_p]
+root    6     2     60   1  1    21:20  ?    00:00:00 [kworker/R-slub_]
+root    7     2     70   1  1    21:20  ?    00:00:00 [kworker/R-netns]
+root    10    2     10   0  1    21:20  ?    00:00:00 [kworker/0:0H-kblockd]
+root    11    2     11   0  1    21:20  ?    00:00:00 [kworker/u12:0-ext4-rsv-conversion]
+root    12    2     12   0  1    21:20  ?    00:00:00 [kworker/R-mm_pe]
+root    13    2     13   0  1    21:20  ?    00:00:00 [rcu_tasks_kthread]
+root    14    2     14   0  1    21:20  ?    00:00:00 [rcu_tasks_rude_kthread]
+root    15    2     15   0  1    21:20  ?    00:00:00 [rcu_tasks_trace_kthread]
+root    16    2     16   0  1    21:20  ?    00:00:00 [ksoftirqd/0]
+root    17    2     17   0  1    21:20  ?    00:00:01 [rcu_preempt]
+root    18    2     18   0  1    21:20  ?    00:00:00 [migration/0]
+root    19    2     19   0  1    21:20  ?    00:00:00 [idle_inject/0]
+root    20    2     20   0  1    21:20  ?    00:00:00 [cpuhp/0]
+root    21    2     21   0  1    21:20  ?    00:00:00 [cpuhp/1]
+root    22    2     22   0  1    21:20  ?    00:00:00 [idle_inject/1]
+root    23    2     23   0  1    21:20  ?    00:00:00 [migration/1]
+root    24    2     24   0  1    21:20  ?    00:00:00 [ksoftirqd/1]
+
+akash@akash:~$ ps -x
+PID   TTY     STAT  TIME     COMMAND
+2054  ?       Ss    0:01     /usr/lib/systemd/systemd --user
+2058  ?       S     0:00     (sd-pam)
+2069  ?       S<sl  0:00     /usr/bin/pipewire
+2071  ?       Ssl   0:00     /usr/bin/pipewire c filter-chain.conf
+2073  ?       S<sl  0:00     /usr/bin/wireplumber
+2075  ?       S<sl  0:00     /usr/bin/pipewire-pulse
+2085  ?       Ss    0:01     /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile -systemd-act
+2090  ?       SLsl  0:00     /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets-control-dir
+2108  ?       Ssl   0:00     /usr/libexec/xdg-document-portal
+2122  ?       Ssl   0:00     /usr/libexec/xdg-permission-store
+2139  tty2     Ssl+  0:00     /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-
+2152  tty2     Sl+   0:00     /usr/libexec/gnome-session-binary --session=ubuntu
+2249  ?       Ssl   0:00     /usr/libexec/gcr-ssh-agent --base-dir/run/user/1000/gcr
+2257  ?       Ssl   0:00     /usr/libexec/gnome-session-ctl --monitor
+2283  ?       Ssl   0:00     /usr/libexec/gvfsd
+2309  ?       ?     0:00     /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+2384  ?       Ssl   0:00     /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+2408  ?       ?     0:00     /usr/libexec/at-spi-bus-launcher --launch-immediately
+2409  ?       Rsl   1:50     /usr/bin/gnome-shell
+
+
