@@ -3,17 +3,15 @@
 ## 1) File Transfer Between Systems
 
 **Understanding:**  
-Both `cp` and `scp` are used to copy files, but they serve different purposes based on local or remote operations.  
-
-  **cp:**  
-  - Used to copy files or folders locally on a Linux system.  
-  - `cp -r source destination` recursively copies a folder and its contents.  
-  - Simple and fast for local operations.  
-
-  **scp:**  
-  - Securely copies files between local and remote systems over SSH.  
-  - `scp -r source user@remote:/path` transfers a folder recursively.  
-  - Ensures encrypted data transfer.  
+- Both `cp` and `scp` are used to copy files, but they serve different purposes based on local or remote operations.  
+  - **cp:**  
+    - Used to copy files or folders locally on a Linux system.  
+    - `cp -r source destination` recursively copies a folder and its contents.  
+    - Simple and fast for local operations.  
+  - **scp:**  
+    - Securely copies files between local and remote systems over SSH.  
+    - `scp -r source user@remote:/path` transfers a folder recursively.  
+    - Ensures encrypted data transfer.  
 
 **Outputs:**  
 ![Output 1a](Outputs/Mod1Output1a.png)  
@@ -54,19 +52,16 @@ Both `cp` and `scp` are used to copy files, but they serve different purposes ba
 ## 4) Linux Networking Utilities
 
 **Understanding:**  
-Commands like `ping`, `arp`, and `ifconfig` help monitor and troubleshoot networks.  
-
-  **ping:**  
-  - Tests connectivity to a host (e.g., `ping -c 4 8.8.8.8`).  
-  - Measures latency and packet loss.  
-
-  **arp:**  
-  - Displays IP-to-MAC address mappings (e.g., `arp -a`).  
-  - Useful for resolving address conflicts.  
-
-  **ifconfig:**  
-  - Shows network interface details like IP and status.  
-  - Helps check configuration and stats.  
+- Commands like `ping`, `arp`, and `ifconfig` help monitor and troubleshoot networks.  
+  - **ping:**  
+    - Tests connectivity to a host (e.g., `ping -c 4 8.8.8.8`).  
+    - Measures latency and packet loss.  
+  - **arp:**  
+    - Displays IP-to-MAC address mappings (e.g., `arp -a`).  
+    - Useful for resolving address conflicts.  
+  - **ifconfig:**  
+    - Shows network interface details like IP and status.  
+    - Helps check configuration and stats.  
 
 **Outputs:**  
 ![Output 4a](Outputs/Mod1Output4a.png)  
@@ -88,23 +83,19 @@ Commands like `ping`, `arp`, and `ifconfig` help monitor and troubleshoot networ
 ## 6) Remote System Access
 
 **Understanding:**  
-Tools like VNC Viewer, AnyDesk, TeamViewer, and Remote Desktop enable remote GUI access.  
-
-  **VNC Viewer:**  
-  - Uses a server-client model with IP and port.  
-  - Provides full desktop control.  
-
-  **AnyDesk:**  
-  - Simple setup with unique IDs for connection.  
-  - Fast and lightweight.  
-
-  **TeamViewer:**  
-  - Similar to AnyDesk, with ID-based access.  
-  - Good for cross-platform use.  
-
-  **Remote Desktop:**  
-  - Built into Windows, uses IP and credentials.  
-  - Seamless for Windows networks.  
+- Tools like VNC Viewer, AnyDesk, TeamViewer, and Remote Desktop enable remote GUI access.  
+  - **VNC Viewer:**  
+    - Uses a server-client model with IP and port.  
+    - Provides full desktop control.  
+  - **AnyDesk:**  
+    - Simple setup with unique IDs for connection.  
+    - Fast and lightweight.  
+  - **TeamViewer:**  
+    - Similar to AnyDesk, with ID-based access.  
+    - Good for cross-platform use.  
+  - **Remote Desktop:**  
+    - Built into Windows, uses IP and credentials.  
+    - Seamless for Windows networks.  
 
 **Outputs:**  
 ![Output 6a](Outputs/Mod1Output6a.png)  
@@ -133,15 +124,13 @@ Tools like VNC Viewer, AnyDesk, TeamViewer, and Remote Desktop enable remote GUI
 ## 8) Network Interface Details
 
 **Understanding:**  
-Both `ifconfig` and `iwconfig` provide network interface details, but they focus differently.  
-
-  **ifconfig:**  
-  - Displays IP, status, and stats for all interfaces.  
-  - Shows speed and MTU settings.  
-
-  **iwconfig:**  
-  - Focuses on wireless interfaces (e.g., signal strength).  
-  - Useful for Wi-Fi troubleshooting.  
+- Both `ifconfig` and `iwconfig` provide network interface details, but they focus differently.  
+  - **ifconfig:**  
+    - Displays IP, status, and stats for all interfaces.  
+    - Shows speed and MTU settings.  
+  - **iwconfig:**  
+    - Focuses on wireless interfaces (e.g., signal strength).  
+    - Useful for Wi-Fi troubleshooting.  
 
 **Outputs:**  
 ![Output 8a](Outputs/Mod1Output8a.png)  
@@ -176,15 +165,13 @@ Both `ifconfig` and `iwconfig` provide network interface details, but they focus
 ## 11) Remote Machine Access via SSH and Telnet
 
 **Understanding:**  
-Both SSH and Telnet provide terminal access to remote machines, differing in security.  
-
-  **SSH:**  
-  - Securely connects using `ssh user@host`.  
-  - Encrypts data for safety.  
-
-  **Telnet:**  
-  - Connects via `telnet host`, but it’s unencrypted.  
-  - Risky for sensitive tasks.  
+- Both SSH and Telnet provide terminal access to remote machines, differing in security.  
+  - **SSH:**  
+    - Securely connects using `ssh user@host`.  
+    - Encrypts data for safety.  
+  - **Telnet:**  
+    - Connects via `telnet host`, but it’s unencrypted.  
+    - Risky for sensitive tasks.  
 
 **Outputs:**  
 ![Output 11a](Outputs/Mod1Output11a.png)  
