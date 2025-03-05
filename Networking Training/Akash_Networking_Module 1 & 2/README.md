@@ -14,9 +14,9 @@
     - Ensures encrypted data transfer.  
 
 **Outputs:**  
-![Output 1a](Outputs/Mod1Output1a.jpg)  
-![Output 1b](Outputs/Mod1Output1b.jpg)  
-![Output 1c](Outputs/Mod1Output1c.jpg)
+<img src="Outputs/Mod1Output1a.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output1b.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output1c.jpg" width="400" height="300">
 
 ## 2) Hosting FTP and SFTP Servers
 
@@ -28,9 +28,9 @@
 - SFTP is preferred for sensitive data.  
 
 **Outputs:**  
-![Output 2a](Outputs/Mod1Output2a.jpg)  
-![Output 2b](Outputs/Mod1Output2b.jpg)  
-![Output 2c](Outputs/Mod1Output2c.jpg)
+<img src="Outputs/Mod1Output2a.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output2b.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output2c.jpg" width="400" height="300">
 
 ## 3) Packet Analysis with Networking Tools
 
@@ -42,12 +42,12 @@
 - It’s like decoding network communication.  
 
 **Outputs:**  
-![Output 3a](Outputs/Mod1Output3a.jpg)  
-![Output 3b](Outputs/Mod1Output3b.jpg)  
-![Output 3c](Outputs/Mod1Output3c.jpg)  
-![Output 3d](Outputs/Mod1Output3d.jpg)  
-![Output 3e](Outputs/Mod1Output3e.jpg)  
-![Output 3f](Outputs/Mod1Output3f.jpg)
+<img src="Outputs/Mod1Output3a.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output3b.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output3c.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output3d.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output3e.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output3f.jpg" width="400" height="300">
 
 ## 4) Linux Networking Utilities
 
@@ -64,9 +64,9 @@
     - Helps check configuration and stats.  
 
 **Outputs:**  
-![Output 4a](Outputs/Mod1Output4a.jpg)  
-![Output 4b](Outputs/Mod1Output4b.jpg)  
-![Output 4c](Outputs/Mod1Output4c.jpg)
+<img src="Outputs/Mod1Output4a.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output4b.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output4c.jpg" width="400" height="300">
 
 ## 5) Duplicate IPs in a Network
 
@@ -78,7 +78,7 @@
 - Unique IPs are essential for stability.  
 
 **Outputs:**  
-![Output 5](Outputs/Mod1Output5.jpg)
+<img src="Outputs/Mod1Output5.jpg" width="400" height="300">
 
 ## 6) Remote System Access
 
@@ -98,16 +98,16 @@
     - Seamless for Windows networks.  
 
 **Outputs:**  
-![Output 6a](Outputs/Mod1Output6a.jpg)  
-![Output 6b](Outputs/Mod1Output6b.jpg)  
-![Output 6c](Outputs/Mod1Output6c.jpg)  
-![Output 6d](Outputs/Mod1Output6d.jpg)  
-![Output 6e](Outputs/Mod1Output6e.jpg)  
-![Output 6f](Outputs/Mod1Output6f.jpg)  
-![Output 6g](Outputs/Mod1Output6g.jpg)  
-![Output 6h](Outputs/Mod1Output6h.jpg)  
-![Output 6i](Outputs/Mod1Output6i.jpg)  
-![Output 6j](Outputs/Mod1Output6j.jpg)
+<img src="Outputs/Mod1Output6a.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output6b.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output6c.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output6d.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output6e.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output6f.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output6g.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output6h.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output6i.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output6j.jpg" width="400" height="300">
 
 ## 7) Default Gateway Reachability
 
@@ -119,7 +119,7 @@
 - It’s key to internet access.  
 
 **Outputs:**  
-![Output 7](Outputs/Mod1Output7.jpg)
+<img src="Outputs/Mod1Output7.jpg" width="400" height="300">
 
 ## 8) Network Interface Details
 
@@ -133,8 +133,8 @@
     - Useful for Wi-Fi troubleshooting.  
 
 **Outputs:**  
-![Output 8a](Outputs/Mod1Output8a.jpg)  
-![Output 8b](Outputs/Mod1Output8b.jpg)
+<img src="Outputs/Mod1Output8a.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output8b.jpg" width="400" height="300">
 
 ## 9) Router Web Interface Exploration
 
@@ -146,8 +146,8 @@
 - Default credentials are often admin/admin.  
 
 **Outputs:**  
-![Output 9a](Outputs/Mod1Output9a.jpg)  
-![Output 9b](Outputs/Mod1Output9b.jpg)
+<img src="Outputs/Mod1Output9a.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output9b.jpg" width="400" height="300">
 
 ## 10) DHCP Server IP Assignment
 
@@ -159,8 +159,8 @@
 - Ensures efficient IP allocation.  
 
 **Outputs:**  
-![Output 10a](Outputs/Mod1Output10a.jpg)  
-![Output 10b](Outputs/Mod1Output10b.jpg)
+<img src="Outputs/Mod1Output10a.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output10b.jpg" width="400" height="300">
 
 ## 11) Remote Machine Access via SSH and Telnet
 
@@ -174,8 +174,8 @@
     - Risky for sensitive tasks.  
 
 **Outputs:**  
-![Output 11a](Outputs/Mod1Output11a.jpg)  
-![Output 11b](Outputs/Mod1Output11b.jpg)
+<img src="Outputs/Mod1Output11a.jpg" width="400" height="300">  
+<img src="Outputs/Mod1Output11b.jpg" width="400" height="300">
 
 ---
 
