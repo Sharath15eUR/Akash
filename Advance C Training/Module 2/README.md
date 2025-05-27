@@ -1,6 +1,6 @@
 # Output Screen Captures
 
----
+
 
 ## Question 1) Write a C program to define 3 different threads:
 
@@ -11,9 +11,9 @@
 `Q1 Thread_Program.c`
 
 **Output Screenshot:**  
-![Question 1 Output - Part 1](Screenshots/AdvCModule2Output1.jpg)  
+![Question 1 Output - Part 1](Module 2/Screenshots/AdvCModule2Output1.jpg)  
 
----
+
 
 ## Question 2) Add signal handling and track execution time
 
@@ -21,7 +21,7 @@
 `Q2 Thread_Program_Extended.c`
 
 **Output Screenshot:**  
-![Question 2 Output - Part 1](Screenshots/AdvCModule2Output2.jpg)  
+![Question 2 Output - Part 1](Module 2/Screenshots/AdvCModule2Output2.jpg)  
 
 
 
