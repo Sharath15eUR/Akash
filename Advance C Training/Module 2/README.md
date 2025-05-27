@@ -11,7 +11,7 @@
 `Q1 Thread_Program.c`
 
 **Output Screenshot:**  
-![Question 1 Output - Part 1](Module 2/Screenshots/AdvCModule2Output1.jpg)  
+![Explanation](Screenshots/AdvCModule2Output1.jpg)  
 
 
 
