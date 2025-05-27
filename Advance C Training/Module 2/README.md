@@ -11,7 +11,7 @@
 `Q1 Thread_Program.c`
 
 **Output Screenshot:**  
-![Explanation](Screenshots/AdvCModule2Output1.jpg)  
+![Output](Screenshots/AdvCModule2Output1.png)  
 
 
 
@@ -21,7 +21,4 @@
 `Q2 Thread_Program_Extended.c`
 
 **Output Screenshot:**  
-![Question 2 Output - Part 1](Module 2/Screenshots/AdvCModule2Output2.jpg)  
-
-
-
+![Output](Screenshots/AdvCModule2Output1.png)   
